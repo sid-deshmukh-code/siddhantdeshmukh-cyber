@@ -26,5 +26,4 @@
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows)
 
 
-<p float="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshalparmar&show_icons=true&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=harshalparmar&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Siddhant2601&show_icons=true&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Siddhant2601&show_icons=true&theme=dracula"/>
