@@ -8,7 +8,7 @@
 ---------------------------------------------------------------------------------
 ## Connect with me :
 
- [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-deshmukh-a25421221/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3Bgki%2Bb903TSCrkng69fI5Dw%3D%3D)
+ [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhant-deshmukh-a25421221/)
 
 
 ## ⚡ Technologies
