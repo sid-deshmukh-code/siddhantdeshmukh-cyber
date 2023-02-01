@@ -33,5 +33,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/siddhantdeshmukh-cyber/count.svg" />
+</p>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=siddhantdeshmukh-cyber&show_icons=true&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=siddhantdeshmukh-cyber&show_icons=true&theme=merko"/>
